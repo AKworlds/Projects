@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository showcases various cybersecurity 
 
 ## 📌 Featured Projects
 
-### 🔹 [WireShark Practice]
+### 🔹 [WireShark Practice](WireShark Practice)
 - **Description:** A hands-on project where I set up and configured a Security Information and Event Management (SIEM) system to monitor network traffic for potential threats.
 - **Skills:** Log analysis, IDS/IPS, SIEM (Splunk, ELK)
 - **Technologies:** Wireshark, Suricata, Splunk
